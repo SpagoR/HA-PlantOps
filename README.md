@@ -23,7 +23,7 @@ Combines **Miflora / Zigbee sensor readings** with **[Planta integration](https:
 
 1. Open HACS → **Frontend**
 2. Click the three-dot menu → **Custom repositories**
-3. Add `https://github.com/YOUR_USER/HA-PlantOps` with category **Lovelace**
+3. Add `https://github.com/YOUR_USER/HA-PlantOps` with category **Dashboard**
 4. Install **Plant Care Card**
 5. Hard-refresh the browser (Ctrl+Shift+R)
 
