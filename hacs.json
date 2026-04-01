@@ -1,6 +1,5 @@
 {
   "name": "Plant Care Card",
-  "description": "A Lovelace card for plant care management. Displays Miflora/Zigbee sensor data alongside Planta integration care schedules and action buttons, with smart watering logic driven by soil moisture thresholds.",
   "content_in_root": true,
   "filename": "plant-care-card.js",
   "render_readme": true,
